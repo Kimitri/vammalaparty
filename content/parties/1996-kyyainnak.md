@@ -1,8 +1,46 @@
 +++
-attachments = []
 description = "Edellisen partyn epäonnistumisesta takaisin uuteen nousuun. Loistava party, jonka legenda elää edelleen. Järjestettiin ensimmäistä kertaa Karkun Työväentalolla."
-draft = true
 title = "1996: Kyyainnak"
+[[attachments]]
+file = "/uploads/kyyflyer.jpg"
+template = "liite"
+title = "Flyer tulostettuna"
+[[attachments]]
+file = "/uploads/vari-kyyainnak-flyer.jpg"
+template = "liite"
+title = "Flyer väreissä"
+[[attachments]]
+file = "/uploads/kyykunnia.jpg"
+template = "liite"
+title = "Kunniakirja"
+[[attachments]]
+file = "/uploads/kyypaita.jpg"
+template = "liite"
+title = "Paitamainos"
+[[attachments]]
+file = "/uploads/lapui.jpg"
+template = "liite"
+title = "Nimikortti ja äänestyslipuke"
+[[attachments]]
+file = "/uploads/kyyres.txt"
+template = "liite"
+title = "Partyraportti ja tulokset"
+[[attachments]]
+file = "/uploads/1996-vparty1.jpg"
+template = "liite"
+title = "Nimen innoittajana toiminut mainos"
+[[attachments]]
+file = "/uploads/arsekiini2.png"
+template = "liite"
+title = "Marq: Arsekiini 2"
+[[attachments]]
+file = "/uploads/foita.mod"
+template = "liite"
+title = "Yzi: Foita!"
+[[attachments]]
+file = "/uploads/kyy-pcdemot.zip"
+template = "liite"
+title = "PC-demot (3 kpl)"
 
 +++
 Edellisen partyn epäonnistumisesta takaisin uuteen nousuun. Loistava party, jonka legenda elää edelleen. Järjestettiin ensimmäistä kertaa [Karkun Työväentalolla](http://www.karkku.net/page.php?id=31&js=1).
