@@ -1,5 +1,8 @@
 +++
 title = "Tietoa Vammala Partystä"
+[menu.main]
+name = "Tietoa"
+weight = 2
 
 +++
 ## Mikä on Vammala Party
