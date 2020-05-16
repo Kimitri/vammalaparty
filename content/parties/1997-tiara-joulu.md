@@ -55,6 +55,8 @@ template = "liite"
 title = "Yzi: Nutbush City"
 
 +++
+Turbohyttynen BBS:n huippuaikana järjestetty party, jonka suuren kävijämäärän vuoksi konepaikat meinasivat loppua kesken.
+
 ## Tulokset
 
 * Tekken
