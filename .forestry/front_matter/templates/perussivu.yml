@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Otsikko
+pages:
+- content/tietoa-vammala-partysta.md
