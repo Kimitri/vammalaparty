@@ -8,4 +8,5 @@ fields:
     required: false
   label: Otsikko
 pages:
+- content/linkit.md
 - content/tietoa-vammala-partysta.md
