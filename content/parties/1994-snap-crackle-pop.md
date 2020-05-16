@@ -1,6 +1,34 @@
 +++
 description = "Party, joka aloitti kaiken. Ensimmäinen partypaikka oli Illon koulu. Osoittautui lopulta suositummaksi kuin aluksi uskottiin."
 title = "1994: Snap, Crackle & Pop"
+[[attachments]]
+file = "/uploads/ilmo.jpg"
+template = "liite"
+title = "Lehti-ilmoitus"
+[[attachments]]
+file = "/uploads/scpkunnia.jpg"
+template = "liite"
+title = "Kunniakirja"
+[[attachments]]
+file = "/uploads/snapcpop.txt"
+template = "liite"
+title = "Tulokset ja partyraportti"
+[[attachments]]
+file = "/uploads/vparty94.jpg"
+template = "liite"
+title = "Tyrvään sanomien juttu aiheesta"
+[[attachments]]
+file = "/uploads/arsekiin.gif"
+template = "liite"
+title = "Marq: Arsekiini"
+[[attachments]]
+file = "/uploads/rabbit-target.png"
+template = "liite"
+title = "Wizman: Rabbit Target"
+[[attachments]]
+file = "/uploads/indro.zip"
+template = "liite"
+title = "Marq: Indro"
 
 +++
 Party, joka aloitti kaiken. Ensimmäinen partypaikka oli [Illon koulu](http://www.illonkoulu.fi/). Osoittautui lopulta suositummaksi kuin aluksi uskottiin.
