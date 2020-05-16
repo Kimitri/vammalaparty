@@ -1,8 +1,58 @@
 +++
-attachments = []
 description = "Turbohyttynen BBS:n huippuaikana järjestetty party, jonka suuren kävijämäärän vuoksi konepaikat meinasivat loppua kesken."
-draft = true
 title = " 1997: Tiara Joulu"
+[[attachments]]
+file = "/uploads/tiara2.jpg"
+template = "liite"
+title = "Flyer"
+[[attachments]]
+file = "/uploads/tiarainv.txt"
+template = "liite"
+title = "Invitaatio"
+[[attachments]]
+file = "/uploads/tiarajul_2.jpg"
+template = "liite"
+title = "Juliste"
+[[attachments]]
+file = "/uploads/tiarakunnia.jpg"
+template = "liite"
+title = "Kunniakirja"
+[[attachments]]
+file = "/uploads/lapui2.jpg"
+template = "liite"
+title = "Tarra"
+[[attachments]]
+file = "/uploads/tiarares.txt"
+template = "liite"
+title = "Tulokset"
+[[attachments]]
+file = "/uploads/tiarajoulu97_report.txt"
+template = "liite"
+title = "Party report"
+[[attachments]]
+file = "/uploads/1997-vparty1.jpg"
+template = "liite"
+title = "Näkymä partyiltä (Salu-Pertti, Marq, Miha)"
+[[attachments]]
+file = "/uploads/novv.zip"
+template = "liite"
+title = "Yzi: Nyt on vitsit vähiksissä"
+[[attachments]]
+file = "/uploads/ihanouto.zip"
+template = "liite"
+title = "???: Ihan outo"
+[[attachments]]
+file = "/uploads/kelmu.zip"
+template = "liite"
+title = "Pete: Kelmu"
+[[attachments]]
+file = "/uploads/arsekiini3.png"
+template = "liite"
+title = "Marq: Arsekiini 3"
+[[attachments]]
+file = "/uploads/nutps.mod"
+template = "liite"
+title = "Yzi: Nutbush City"
 
 +++
 ## Tulokset
