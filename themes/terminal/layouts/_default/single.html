@@ -3,10 +3,10 @@
   <h1 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h1>
   <div class="post-meta">
-      {{ if .Params.Date }}
-    <span class="post-date">
-      {{ .Date.Format "2006-01-02" }}
-    </span>
+    {{ if .Date }}
+      <span class="post-date">
+        {{ .Date.Format "2006-01-02" }}
+      </span>
     {{ end }}
     {{ with .Params.Author }}
     <span class="post-author">::
@@ -35,7 +35,7 @@
     {{- end -}}
 
     {{ if .Params.attachments }}
-      <h2>Liitteet</h2>
+      <h2 id="liitteet">Liitteet<a href="#liitteet" class="hanchor" ariaLabel="Anchor">&#8983;</a></h2>
       <ul>
         {{ range .Params.attachments }}
           <li><a href="{{ .file | absURL }}">{{ .title }}</a></li>
