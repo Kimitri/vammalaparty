@@ -20,9 +20,12 @@ fields:
   label: Lyhyt kuvaus
   description: Lyhyt kuvaus partystä. Tämä näytetään partylistaussivulla.
 - name: attachments
-  type: image_gallery
-  config: {}
+  type: blocks
   label: Liitteet
-  description: Kaikki liitteet
+  template_types:
+  - liite
+  config:
+    min: 
+    max: 
 pages:
 - content/parties/1994-snap-crackle-pop.md
