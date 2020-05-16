@@ -13,7 +13,7 @@
       {{ if .Params.showFullContent }}
       {{ .Content | markdownify }}
       {{ else if .Description }}
-      {{ .Description | markdownify }}
+      {{ .Description }}
       {{ else }}
       {{ if .Truncated }}
       {{ .Summary | markdownify }}
