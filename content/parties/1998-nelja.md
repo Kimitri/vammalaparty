@@ -47,6 +47,8 @@ template = "liite"
 title = "Lisää neljäihmisiä."
 
 +++
+Hauska party, joka ei kuitenkaan saavuttanut yhtä suurta suosiota kuin edellinen.
+
 ## Siivotut tulokset (kesken)
 
 ### Demo
