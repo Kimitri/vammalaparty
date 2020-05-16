@@ -1,0 +1,83 @@
+
+	Pääserveri
+
+	Tärkein verkon kone on pääserveri, joka pyörii Linuxin päällä
+	hoitaen internet-reititystä, intranet-sivua, DNS-palvelua, tarjoten
+	telnet/ssh-yhteyksiä ja mahd. muita palveluja. Aliverkko liitetään
+	koaksiaalikaapelilla verkkokortista. Tarpeen vaatiessa voidaan
+	aliverkkoa joutua jakamaan segmentteihin reitittimillä tai reitit-
+	tävillä koneilla.
+
+	Käyttäjätunnukset
+
+	Jokaiselle käyttäjälle tehdään tunnari pääserverille. Tunnarilla
+	pääsee kirjautumaan pääkoneelle verkko- yms. käyttöä varten
+	pääteyhteydellä. Mahdollinen verkkoäänestys tapahtuu myös tunnaria
+	käyttämällä.
+
+	DNS-serveri ja IP:t
+
+	Pääserverille pyritään virittämään intranetin ensisijainen nimi-
+	palvelu, jolla verkon koneille annetaan nimet. Selkeyden vuoksi
+	koneen nimi voisi olla sama kuin käyttäjätunnus. Pääserverin IP
+	on 10.0.0.1 ja muut numeroidaan siitä eteenpäin. 
+
+	IP-reititys ja internet
+
+	Pääserverissä on kiinni 55k motu, jonka liikenne ohjataan ip
+	masqueradella aliverkkoon. Yhteys "ilmaiseen" palveluun, jatkuvasti
+	tai tarvittaessa auki. Aliverkon koneista pääsee normaalisti
+	nettiin, kunhan säädöt ovat kohdallaan. Internetin nimiselvitys
+	tapahtuu palveluntarjoajan kautta ja laitetaan koneille toissijai-
+	seksi DNS-serveriksi.
+
+	http, ftp yms.
+
+	Pääkone serveroi partyn intranet-sivua. Kaikilla TCP/IP-koneilla
+	on mahdollisuus tarjota http-, ftp- ja vastaavia palveluita, kuten
+	nfs ja telnet yms. Huom! Koneilta waren jakelu on parempi hoitaa
+	ftp:n kuin jaetun levyn kautta, että saavutetaan käyttisriippu-
+	mattomuus.
+
+	Wintous
+
+	TCP/IP-verkossa voi pyöriä sulassa sovussa myös Windows-verkko.
+	Mahdollisesti tarvitaan erillinen serveri yhteydenpitoon tai sitten
+	Wintous-liikennettä voidaan ohjailla pääserveriltä Samban avulla.
+
+	Pääte- ja sarjayhteydet
+
+	Yleiseen käyttöön pitää olla ainakin pari päätettä/konetta. Näillä
+	saa yhteyden suoraan pääserveriin jossa voi käyttää Linux-shelliä.
+	Verkkokortittomille koneille (etupäässä Amiga) voidaan tarjota
+	samanlaisia pääteyhteyksiä. Tarpeen vaatiessa ja mielenkiinnon
+	riittäessä voidaan yrittää tarjota myös PPP/SLIP-yhteyksiä.
+
+	Intranet-sivu
+	
+	Manu ahkerana poikana pyöräyttänee partylle intranet-sivun, jolla
+	tiedotetaan deadlineistä, kompoista, tuloksista, verkkoasioista
+	jne. Verkkoasioissa olisi hyödyllistä tiedottaa eri servereistä
+	ja niiltä löytyvistä hakemistoista/wareista. Verkon asennusohjeet
+	Wintoussiin, Linuxiin ja Amigaan olisivat kiva plussa.
+
+
+                                      10.0.0.2  10.0.0.3
+                                       -----     -----
+                                      |     |   |     |
+                                      |kone1|   |kone2|
+                                      |     |   |     |
+                                       -----     -----
+                      -----   ethernet   |         |
+                     |     |-----------------------------> lähiverkko
+               modem | pää |  sarja1
+   internet <--------| ser-|-----------------------
+                     | veri|  sarja2               |
+                     |     |-------------          |
+                      -----              |         |
+                     10.0.0.1          -----     -----
+                                      |     |   |     |
+                                      |pääte|   |kone3|
+                                      |     |   |     |
+                                       -----     -----
+                                        n/a     10.0.0.4
