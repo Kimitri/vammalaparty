@@ -1,7 +1,50 @@
 +++
-attachments = []
 description = "Hauska party, joka ei kuitenkaan saavuttanut yhtä suurta suosiota kuin edellinen."
 title = "1998: Neljä"
+[[attachments]]
+file = "/uploads/nelja_2.jpg"
+template = "liite"
+title = "Flyer"
+[[attachments]]
+file = "/uploads/nelja98res.txt"
+template = "liite"
+title = "Alkuperäiset tulokset"
+[[attachments]]
+file = "/uploads/neljabadge.jpg"
+template = "liite"
+title = "Nimitarra"
+[[attachments]]
+file = "/uploads/neljakunnia.jpg"
+template = "liite"
+title = "Kunniakirja"
+[[attachments]]
+file = "/uploads/1998-vparty1.jpg"
+template = "liite"
+title = "Näkymä sisältä (Roz & Manu)"
+[[attachments]]
+file = "/uploads/1998-vparty2.jpg"
+template = "liite"
+title = "Ääntenlasku käynnissä (Manu & Mikko)"
+[[attachments]]
+file = "/uploads/1998-vparty3.jpg"
+template = "liite"
+title = "Yleisnäkymä sisältä"
+[[attachments]]
+file = "/uploads/1998-vparty4.jpg"
+template = "liite"
+title = "Vilvoittelua portailla"
+[[attachments]]
+file = "/uploads/nelja1.jpg"
+template = "liite"
+title = "Sisällä Roz"
+[[attachments]]
+file = "/uploads/nelja2.jpg"
+template = "liite"
+title = "Etualalla Tero ja Tyni"
+[[attachments]]
+file = "/uploads/nelja3.jpg"
+template = "liite"
+title = "Lisää neljäihmisiä."
 
 +++
 ## Siivotut tulokset (kesken)
