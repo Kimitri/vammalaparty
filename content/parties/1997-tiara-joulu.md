@@ -1,6 +1,6 @@
 +++
 description = "Turbohyttynen BBS:n huippuaikana järjestetty party, jonka suuren kävijämäärän vuoksi konepaikat meinasivat loppua kesken."
-title = " 1997: Tiara Joulu"
+title = "1997: Tiara Joulu"
 [[attachments]]
 file = "/uploads/tiara2.jpg"
 template = "liite"
