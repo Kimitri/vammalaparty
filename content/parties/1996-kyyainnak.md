@@ -56,7 +56,7 @@ Edellisen partyn epäonnistumisesta takaisin uuteen nousuun. Loistava party, jon
 * Fast Graphics
   1. Roz / RnoTficmSmr
 * Levykkeenheitto
-  1. Tablo / Tficm
+  1. Tablo / Tficm 
 * Kovalevyntyöntö
   1. Lerssi / Wäinämö
 * Grafiikka
