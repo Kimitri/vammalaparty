@@ -1,5 +1,4 @@
 +++
-attachments = ["/uploads/snapcpop.txt", "/uploads/scpkunnia.jpg", "/uploads/rabbit-target.png", "/uploads/indro.zip", "/uploads/ilmo.jpg", "/uploads/arsekiin.gif"]
 description = "Party, joka aloitti kaiken. Ensimmäinen partypaikka oli Illon koulu. Osoittautui lopulta suositummaksi kuin aluksi uskottiin."
 title = "1994: Snap, Crackle & Pop"
 
