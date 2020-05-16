@@ -1,5 +1,7 @@
 +++
 title = "Linkit"
+[menu.main]
+weight = 3
 
 +++
 ## Vammala Party Organisaatioon liittyvät linkit:
