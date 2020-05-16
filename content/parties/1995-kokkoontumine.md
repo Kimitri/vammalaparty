@@ -1,8 +1,22 @@
 +++
-attachments = []
 description = "Vammala Partyn pohjanoteeraus, joka pidettiin Sylvään yläasteella. Lyhyt, synkkä ja huono – koululla kun ei saanut olla kuin muutaman tunnin."
-draft = true
 title = "1995: Kokkoontumine"
+[[attachments]]
+file = "/uploads/kokkoontumine.txt"
+template = "liite"
+title = "Tulokset"
+[[attachments]]
+file = "/uploads/fizer.zip"
+template = "liite"
+title = "Fit: Fizer"
+[[attachments]]
+file = "/uploads/jormasth.mod"
+template = "liite"
+title = "Jorma's theme by Jorma Peltola/The Jorma Peltola group"
+[[attachments]]
+file = ""
+template = "liite"
+title = "Roz: Entrail Sucking"
 
 +++
 Vammala Partyn pohjanoteeraus, joka pidettiin [Sylvään yläasteella](http://www.sylvaa.fi/). Lyhyt, synkkä ja huono – koululla kun ei saanut olla kuin muutaman tunnin.
