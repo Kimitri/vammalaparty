@@ -8,7 +8,7 @@ contentTypeName = "posts"
 fullWidthTheme = false
 readMore = "Lue lisää"
 showLanguageSelector = false
-showMenuItems = 2
+showMenuItems = 3
 themeColor = "pink"
 [params.logo]
 logoText = "Vammala Party"
