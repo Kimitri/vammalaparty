@@ -1,6 +1,6 @@
 +++
 description = "Keskellä metsää Hornion koululla järjestetty party, jonka kävijämäärä oli taas kerran varsin suuri. Käytössä oli kokonaiset kaksi kerrosta, joiden välille vedettiin lähiverkko. Äänestyskin hoitui ensimmäistä kertaa verkossa."
-title = "1999 : Vanha Mies"
+title = "1999: Vanha Mies"
 [[attachments]]
 file = "/uploads/vanhamies99.jpg"
 template = "liite"
