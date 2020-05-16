@@ -8,3 +8,7 @@ title = "Skenekompojen tulokset"
 
 +++
 Kauppilan matkailutilalla jälleen. Oletettavasti Lännen lokari ei tänä vuonna soinut ainakaan yhtä paljon kuin edellisenä.
+
+## Linkit
+
+* [Muton napsimia kuvia](http://muto.iki.fi/kuvat/peijaiset2018/index.html?fbclid=IwAR2clCSCs-3LbZ4XwmIxnSd4VB3op956WV5UMkEaW4MTlL7lhLiLoKBDn1E)
