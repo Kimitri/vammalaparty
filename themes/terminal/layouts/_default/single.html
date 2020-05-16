@@ -38,7 +38,7 @@
       <h2>Liitteet</h2>
       <ul>
         {{ range .Params.attachments }}
-          <li><a href="{{ . | absURL }}">{{ . | path.Base }}</a></li>
+          <li><a href="{{ .file | absURL }}">{{ .title }}</a></li>
         {{ end }}
       </ul>
     {{ end }}
