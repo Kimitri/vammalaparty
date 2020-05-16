@@ -33,11 +33,16 @@
         {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor">&#8983;</a> ${3}` | safeHTML }}
       </div>
     {{- end -}}
-  </div>
 
-  {{ if eq .Type $.Site.Params.contentTypeName }}
-  {{ partial "posts_pagination.html" . }}
-  {{ end }}
+    {{ if .Params.attachments }}
+      <h2>Liitteet</h2>
+      <ul>
+        {{ range .Params.attachments }}
+          <li><a href="{{ . | absURL }}">{{ . | path.Base }}</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
 
   {{ partial "comments.html" . }}
 </div>

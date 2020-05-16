@@ -1,0 +1,34 @@
+{{ define "main" }}
+<div class="posts">
+  {{ range .Pages }}
+  <div class="post on-list">
+    <h1 class="post-title">
+      <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h1>
+
+    {{ with .Params.Cover }}
+    <img src="{{ . | absURL }}" class="post-cover" />
+    {{ end }}
+
+    <div class="post-content">
+      {{ if .Params.showFullContent }}
+      {{ .Content | markdownify }}
+      {{ else if .Description }}
+      {{ .Description | markdownify }}
+      {{ else }}
+      {{ if .Truncated }}
+      {{ .Summary | markdownify }}
+      {{ end }}
+      {{ end }}
+    </div>
+
+    {{ if not .Params.showFullContent }}
+    <div>
+      <a class="read-more button"
+        href="{{.RelPermalink}}">{{ $.Site.Params.ReadMore }} →</a>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+  {{ partial "pagination.html" . }}
+</div>
+{{ end }}

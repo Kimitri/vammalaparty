@@ -1,0 +1,9 @@
+.post ol li:before {
+  content: none;
+}
+
+li ol,
+li ul {
+  margin-top: .6em;
+  margin-bottom: 1em;
+}
