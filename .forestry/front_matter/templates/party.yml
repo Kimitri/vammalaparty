@@ -1,4 +1,26 @@
 ---
 label: Party
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Otsikko
+  description: 'Partyn nimi muodossa "vuosi: nimi", eli esim. "1994: Snap, Crackle
+    &amp; Pop"'
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Lyhyt kuvaus
+  description: Lyhyt kuvaus partystä. Tämä näytetään partylistaussivulla.
+- name: attachments
+  type: image_gallery
+  config: {}
+  label: Liitteet
+  description: Kaikki liitteet
