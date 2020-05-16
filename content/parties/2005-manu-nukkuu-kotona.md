@@ -1,6 +1,6 @@
 +++
 description = "Poikkeuksellisen aikaisin kesällä järjestetty party, jossa hiki virtasi (hellettä koko viikonlopun ajan) ja Nalle-Puh elastisoitui."
-title = " 2005: Manu nukkuu kotona"
+title = "2005: Manu nukkuu kotona"
 [[attachments]]
 file = "/uploads/manunukflyer.jpg"
 template = "liite"
