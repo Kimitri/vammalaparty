@@ -24,3 +24,5 @@ fields:
   config: {}
   label: Liitteet
   description: Kaikki liitteet
+pages:
+- content/parties/1994-snap-crackle-pop.md
