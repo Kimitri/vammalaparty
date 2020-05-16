@@ -1,4 +1,14 @@
 ---
 label: Liite
 hide_body: true
-fields: []
+fields:
+- name: file
+  type: file
+  config:
+    maxSize: 64
+  label: Tiedosto
+- name: title
+  type: text
+  config:
+    required: false
+  label: Otsikko
