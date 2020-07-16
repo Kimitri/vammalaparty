@@ -24,4 +24,5 @@ fields:
   description: Postauksen kansikuva, joka näytetään myös listauksissa.
 pages:
 - content/posts/2020-05-16-uusi-saitti.md
+- content/posts/vammala-party-2020-aanestys.md
 - content/posts/vammala-party-2020-kimmo-korjaa-kotisivut.md
