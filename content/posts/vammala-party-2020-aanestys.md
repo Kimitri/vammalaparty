@@ -3,7 +3,6 @@ author = "Kimmo"
 cover = ""
 date = 2020-07-16T14:21:49Z
 description = "Partyn osallistujat voivat äänestää skenekompoissa osoitteessa https://vparty.fi.cloudplatform.fi/"
-draft = true
 title = "Vammala Party 2020 -äänestys"
 
 +++
