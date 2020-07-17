@@ -10,6 +10,14 @@ Partyn osallistujat voivat äänestää skenekompoissa osoitteessa [https://vpar
 
 Äänestys toimii samalla systeemillä kuin viime vuonna. Joudut rekisteröitymään käyttäjäksi ennen äänestämistä, vaikka olisit viime vuonna jo viime vuonna rekisteröitynyt. Käyttäjätiedot nimittäin poistetaan aina partyn jälkeen.
 
-Äänestyksessä valitaan jokaisesta komposta kolme parasta ja ne laitetaan järjestykseen parhaasta aloittaen. Voit äänestää niin monta kertaa kuin haluat, mutta jokaisella äänestyskerralla tulee kaikkien kompojen äänet antaa aina uusiksi.
+Äänestyksessä valitaan jokaisesta komposta kolme parasta ja ne laitetaan järjestykseen parhaasta aloittaen. Äänet jakautuvat valitsemillesi entryille seuraavasti:
+
+1. 4 pistettä
+2. 2 pistettä
+3. 1 piste
+
+Voit äänestää niin monta kertaa kuin haluat, mutta jokaisella äänestyskerralla tulee kaikkien kompojen äänet antaa aina uusiksi.
+
+Äänestys aktivoidaan lauantaina skenekompojen jälkeen.
 
 Hyvää partyä!
