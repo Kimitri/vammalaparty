@@ -81,3 +81,18 @@ Kauppilan matkailutilalla ja kyberavaruudessa järjestetty huipputapahtuma, joss
 5. **Jaettu (10):** Tomsku: Eeppinen kissatarina, Nyyrikki: Make America Great Again
 6. Fit: Naien (9)
 7. ISO: ISO-jen kuninkaiden marssi (7)
+
+## Muiden kompojen tulokset
+
+* Nörttisportti: Roz
+* Gamecube-kompo: Wobbis
+* Trackmania-kompo: Gusti
+* RC: Mikko
+
+## Kunniamaininnat
+
+* WC-paperin haku: Kimmo
+* Parta: Gusti
+* Pihaviihde: Alumni
+* Ihmemies (on peruttu): Jusa
+* Striimaus: Mikko
