@@ -12,9 +12,9 @@ Partyn osallistujat voivat äänestää skenekompoissa osoitteessa [https://vpar
 
 Äänestyksessä valitaan jokaisesta komposta kolme parasta ja ne laitetaan järjestykseen parhaasta aloittaen. Äänet jakautuvat valitsemillesi entryille seuraavasti:
 
-1. 4 pistettä
-2. 2 pistettä
-3. 1 piste
+1. 🏅 4 pistettä
+2. 🥈 2 pistettä
+3. 🥉 1 piste
 
 Voit äänestää niin monta kertaa kuin haluat, mutta jokaisella äänestyskerralla tulee kaikkien kompojen äänet antaa aina uusiksi.
 
