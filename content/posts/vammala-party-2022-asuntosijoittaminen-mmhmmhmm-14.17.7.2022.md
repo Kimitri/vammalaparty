@@ -7,3 +7,4 @@ draft = true
 title = "Vammala Party 2022 - Asuntosijoittaminen mmhmmhmm 14. - 17.7.2022"
 
 +++
+_Vammala Party 2022 - Asuntosijoittaminen mmhmmhmm_ järjestetään 14. - 17.7.2022 Kauppilan matkailutilalla, Ikaalisissa. Lisätietoa aiheesta Facebookissa. Lentäjät ne lentää ja rakastajat rakastaa.
