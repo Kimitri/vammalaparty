@@ -12,7 +12,7 @@ Kompojen taso oli jälleen korkea ja monessa kompossa piste-erot jäivät todell
 
 ### Tuplain
 
-|     |                                            |    |
+|Tekijä|Nimi|Pisteet|
 |-----|--------------------------------------------|----|
 | N/A | Honest speech                              | 28 |
 | N/A | Andy the Great Dictator                    | 13 |
@@ -27,7 +27,7 @@ Kompojen taso oli jälleen korkea ja monessa kompossa piste-erot jäivät todell
 
 ### Tekoälytaide
 
-|  |  |  |
+|Tekijä|Nimi|Pisteet|
 |---|---|---|
 | Kimitri | Tom & Jerry of Finland | 58 |
 | Codise | Hungry hippos pizza balalaika | 33 |
@@ -39,7 +39,7 @@ Kompojen taso oli jälleen korkea ja monessa kompossa piste-erot jäivät todell
 
 ### Valokuva
 
-|  |  |  |
+|Tekijä|Nimi|Pisteet|
 |---|---|---|
 | Maunukki | Pisara on miljoonan alku | 37 |
 | Kekeplasteri | Pöriläs | 24 |
@@ -55,7 +55,7 @@ Kompojen taso oli jälleen korkea ja monessa kompossa piste-erot jäivät todell
 
 ### Grafiikka
 
-|  |  |  |
+|Tekijä|Nimi|Pisteet|
 |---|---|---|
 | Dr. Terrorz | Asunnottomien Yö | 47 |
 | HRH Princess Anne-Margaret | Pokemonite | 25 |
@@ -68,14 +68,14 @@ Kompojen taso oli jälleen korkea ja monessa kompossa piste-erot jäivät todell
 
 ### Tracker-musiikki
 
-|  |  |  |
+|Tekijä|Nimi|Pisteet|
 |---|---|---|
 | Roz | Klenu | 72 |
 | John Plutimir | New Clear Threat | 42 |
 
 ### Musiikki
 
-|  |  |  |
+|Tekijä|Nimi|Pisteet|
 |---|---|---|
 | Roz | Kauppilanranta | 41 |
 | Kimitri / TFICM | Hard Drivin' | 30 |
@@ -85,7 +85,7 @@ Kompojen taso oli jälleen korkea ja monessa kompossa piste-erot jäivät todell
 
 ### Wild
 
-|  |  |  |
+|Tekijä|Nimi|Pisteet|
 |---|---|---|
 | Jeo Lastumäki | I wish there was a decent car game (in the 80's) | 40 |
 | Marq & Kmo | Ryönämestari oy | 30 |
@@ -99,7 +99,7 @@ Kompojen taso oli jälleen korkea ja monessa kompossa piste-erot jäivät todell
 
 ### Demo
 
-|  |  |  |
+|Tekijä|Nimi|Pisteet|
 |---|---|---|
 | Nnagg / Computerhaters Inc. | Vammala Party Mayhem | 46 |
 | XXXXX/TFICM | 1990 | 43 |
