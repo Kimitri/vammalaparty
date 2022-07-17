@@ -14,16 +14,19 @@ Kompojen taso oli jälleen korkea ja monessa kompossa piste-erot jäivät todell
 
 |Tekijä|Nimi|Pisteet|
 |-----|--------------------------------------------|----|
-| N/A | Honest speech                              | 28 |
-| N/A | Andy the Great Dictator                    | 13 |
-| N/A | Australian aika-ajot                       | 12 |
-| N/A | Via my dirty toes                          | 11 |
-| N/A | Invaders must die                          | 10 |
-| N/A | Tapahtumat sijoittuvat tässä Hollywoodiaan | 9  |
-| N/A | Final Valmunen                             | 9  |
-| N/A | Tämän vuoden Skoda                         | 6  |
-| N/A | Se oikea 1986                              | 6  |
-| N/A | Kuva-arvoitus                              | 6  |
+| Jupp3 | Honest speech                              | 28 |
+| Marq | Andy the Great Dictator                    | 13 |
+| Claustro | Australian aika-ajot                       | 12 |
+| Roz | Via my dirty toes                          | 11 |
+| Terwiz | Invaders must die                          | 10 |
+| Marq | Tapahtumat sijoittuvat tässä Hollywoodiaan | 9  |
+| Marq | Final Valmunen                             | 9  |
+| Claustro | Tämän vuoden Skoda                         | 6  |
+| Dr. Terrorz | Se oikea 1986                              | 6  |
+| Jupp3 | Kuva-arvoitus                              | 6  |
+| Maunukki | Look at this amazing demonstration | 5  |
+| NYYRIKKI | Apolitical | 1  |
+| Wobbis | Housut | 0  |
 
 ### Tekoälytaide
 
@@ -105,3 +108,9 @@ Kompojen taso oli jälleen korkea ja monessa kompossa piste-erot jäivät todell
 | XXXXX/TFICM | 1990 | 43 |
 | Raittiusliitto | En juo enaa koskaan | 33 |
 | Kimitri / TFICM | Limaa säästämättä, laardista tinkimättä | 11 |
+
+## Muiden kompojen tulokset
+
+- **Nörttisportti:** Kimmo
+- **Mario Party:** Markus
+- **Pelithriathlon:** Muto
