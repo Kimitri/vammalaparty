@@ -1,15 +1,15 @@
 +++
 title = "Tietoa Vammala Partystä"
+
 [menu.main]
 name = "Tietoa"
 weight = 2
-
 +++
 ## Mikä on Vammala Party
 
 Vammala Party on Vammalan alueella järjestettävien demo- ja peliskenetapahtumien yleinen nimi. Jotta meininki ei kuitenkaan menisi liian kuivaksi tai kävijät tylsistyisi kuoliaaksi, tapahtuma järjestetään joka vuosi eri nimellä.
 
-Vammala Party sai alkunsa Illon koululla järjestetystä Snap, Crackle & Pop -tapahtumasta, joka suosiollaan ylitti järjestäjien villeimmät unelmatkin (paikalle siis saapui jopa joku täysin ulkopuolinen). Tämä oli siis vuonna 1994. Tästä eteenpäin partyt on järjestetty joka vuosi paitsi 2002, eikä loppua toistaiseksi ainakaan ole näkyvissä.
+Vammala Party sai alkunsa Illon koululla järjestetystä Snap, Crackle & Pop -tapahtumasta, joka suosiollaan ylitti järjestäjien villeimmät unelmatkin (paikalle siis saapui jopa joku täysin ulkopuolinen). Tämä oli siis vuonna 1994. Tästä eteenpäin partyt on järjestetty joka vuosi paitsi 2002, eikä loppua ainakaan toistaiseksi ole näkyvissä.
 
 Enemmän tietoa Vammalan demoskenen historiasta löydät [Vammalan skenehistoriikista](http://www.kameli.net/vammala/).
 
