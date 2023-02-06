@@ -12,3 +12,7 @@ showMenuItems = 3
 themeColor = "pink"
 [params.logo]
 logoText = "Vammala Party"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
