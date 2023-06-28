@@ -1,7 +1,7 @@
 +++
 author = "Kimmo"
-cover = "/uploads/vammalaparty-2023-flyer.jpg"
-date = 2023-06-28T09:50:12Z
+cover = "/uploads/2023_flyer.jpg"
+date = 2023-06-27T17:50:12Z
 description = "Yllättävä, kaiken hyvän kasvupaikka 28. - 30.7.2023, Kauppilan matkailutila, Ikaalinen"
 title = "Vammala Party 2023 - Yllättävä, kaiken hyvän kasvupaikka 28. - 30.7.2023"
 
