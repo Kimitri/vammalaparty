@@ -3,7 +3,7 @@ author = "Kimmo"
 cover = ""
 date = 2023-07-29T18:00:00Z
 description = "Partyn osallistujat voivat äänestää skenekompoissa osoitteessa https://vote.vammala.party/"
-title = "Vammala Party 2022 -äänestys"
+title = "Vammala Party 2023 -äänestys"
 
 +++
 Partyn osallistujat voivat äänestää skenekompoissa osoitteessa [https://vote.vammala.party/](https://vote.vammala.party/ "https://vote.vammala.party/")
