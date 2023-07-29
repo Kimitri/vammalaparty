@@ -2,11 +2,11 @@
 author = "Kimmo"
 cover = ""
 date = 2023-07-29T18:00:00Z
-description = "Partyn osallistujat voivat äänestää skenekompoissa osoitteessa https://vote.vammala.party/"
+description = "Partyn osallistujat voivat äänestää skenekompoissa osoitteessa http://vote.vammala.party/"
 title = "Vammala Party 2023 -äänestys"
 
 +++
-Partyn osallistujat voivat äänestää skenekompoissa osoitteessa [https://vote.vammala.party/](https://vote.vammala.party/ "https://vote.vammala.party/")
+Partyn osallistujat voivat äänestää skenekompoissa osoitteessa [http://vote.vammala.party/](http://vote.vammala.party/ "http://vote.vammala.party/")
 
 Äänestys toimii samalla systeemillä kuin viime vuonna. Joudut rekisteröitymään käyttäjäksi ennen äänestämistä, vaikka olisit jo viime vuonna rekisteröitynyt. Käyttäjätiedot poistetaan aina partyn jälkeen.
 
