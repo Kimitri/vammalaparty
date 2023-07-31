@@ -65,6 +65,7 @@ Kauppilan matkailutilalla jälleen järjestetty party, jossa meininki oli eritt�
 | Jupp3 | Nightmare | 15 |
 | Emil | Cuphead | 11 |
 | Ida | Dead Flowers | 5 |
+| Jynkkä Levänen / Computerhaters | Merellinen taidekuva | 0 |
 
 ### Valokuva
 
@@ -82,6 +83,9 @@ Kauppilan matkailutilalla jälleen järjestetty party, jossa meininki oli eritt�
 | Roz / Fit ^ Byterapers | Lefkas | 3 |
 | Jupp3 | It's not gay if... | 1 |
 | Dr. Terrorz | Posing for Camera | 1 |
+| wobbis | farmacia-dem-amiga | 0 |
+| Codise | Codise on Cooking Quinoa (2023) | 0 |
+
 
 ## Muiden äänestettävien kompojen tulokset
 
@@ -102,6 +106,7 @@ Kauppilan matkailutilalla jälleen järjestetty party, jossa meininki oli eritt�
 | Dr. Terrorz | The wedding of life-size Barbie doll and Oppenheimer, with a nuclear explosion in the background. | 5 |
 | Kekeplasteri | alien disco interior aliens dancing laser lights pulsing weird atmosphere boogie. | 4 |
 | codise | Finnish Mad Max road warrior looking at desertificated Lapland with monster trucks and Tunturi mopeds. | 2 |
+| ? | Kääriä went to the forest to have a picnic with an ai created banana in style of 60's hippie movement. | 0 | 
 
 ### Tuplain
 
