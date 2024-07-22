@@ -101,16 +101,16 @@ Taas kerran Kauppilan matkailutilalla järjestetty party, jossa hiki virtasi nii
 | --- | --- | --- |
 | Marq | Chariots of Mämmi | 37 |
 | Teemu | Serena | 35 |
-| Roz | Fred Astaire Trilogy part 1 | Furious Fred | 21 |
+| Roz | Fred Astaire Trilogy part 1 - Furious Fred | 21 |
 | Terwiz | Voodoo People, Failing People | 12 |
 | Claustro | Personal Trainerin ajatuksenjuoksua | 11 |
 | Manu | Hjeheh gjeheh | 11 |
 | Claustro | Euroopan suurin sisävesihuvipuisto | 7 |
-| Roz | Fred Astaire Trilogy part 2 | A E I O U F R E D | 6 |
+| Roz | Fred Astaire Trilogy part 2 - A E I O U F R E D | 6 |
 | Claustro | Muumilaakso | 5 |
 | Dr. Terrorz | Deltasqatsi | 5 |
 | Marq | Ei mittään onnea | 3 |
-| Roz | Fred Astaire Trilogy part 3 | Fredmaker | 1 |
+| Roz | Fred Astaire Trilogy part 3 - Fredmaker | 1 |
 
 ### Muiden kompojen voittajat
 
