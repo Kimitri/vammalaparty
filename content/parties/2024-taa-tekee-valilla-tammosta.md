@@ -7,7 +7,7 @@ template = "liite"
 title = "Flyer"
 
 +++
-Taas kerran Kauppilan matkailutilalla järjestetty party, jossa hiki virtasi niin sään, saunan, paljun, levykkeenheiton kuin entryjen kyhäämisenkin ansiosta. Kompot olivat tasoltaan kovia (etenkin musakompo), mutta entryjä oli jossakin kompoissa hieman niukasti. Teemu huolehti jälleen perjantaina paljun lämmittämisestä.
+Taas kerran Kauppilan matkailutilalla järjestetty party, jossa hiki virtasi niin sään, saunan, paljun, levykkeenheiton kuin entryjen kyhäämisenkin ansiosta. Kompot olivat tasoltaan kovia (etenkin musakompo), mutta entryjä oli joissakin kompoissa hieman niukasti. Teemu huolehti jälleen perjantaina paljun lämmittämisestä.
 
 ## Skenekompojen tulokset
 
