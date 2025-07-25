@@ -97,7 +97,7 @@ Kauppilan matkailutila Ikaalisissa toimi jälleen tapahtumapaikkana, kun vuoden 
 | Jupp3 | Photorealistic video of Indiana Jones in the style of Raiders... | 31 |
 | Willy / TFICM | Photorealistic image. Depressed and unwell people sitting... | 17 |
 | marqs | Volodymyr Zelensky and Jack Tramiel playing Raid over Moscow... | 16 |
-| Jupp3 | Gamer playing Doom on an abacus. | 16 |
+| PelleB | Gamer playing Doom on an abacus. | 16 |
 | Claustro / Damones | Amish community gathered outdoors in a rustic 1980s farm setting... | 16 |
 | Terwiz | Nikola Tesla and Thomas Edison fighting in WWE wrestling match | 14 |
 | Kekeplasteri | a short video of manu washing his superman t-shirt in a river... | 13 |
