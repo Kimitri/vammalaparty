@@ -96,3 +96,8 @@ Kauppilan matkailutilalla ja kyberavaruudessa järjestetty huipputapahtuma, joss
 * Pihaviihde: Alumni
 * Ihmemies (on peruttu): Jusa
 * Striimaus: Mikko
+
+
+## Linkit
+
+- [Partyn CSDb-sivu](https://csdb.dk/event/?id=2975)

@@ -128,3 +128,6 @@ Kauppilan matkailutilalla jälleen järjestetty party, jossa meininki oli eritt�
 - RC: Muto
 - Nörttisportti: Roz
 
+## Linkit
+
+- [Partyn CSDb-sivu](https://csdb.dk/event/?id=3316)

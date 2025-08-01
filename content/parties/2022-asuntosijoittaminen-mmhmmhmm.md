@@ -46,3 +46,7 @@ Kompojen taso oli jälleen korkea ja monessa kompossa piste-erot jäivät todell
 * **Nörttisportti:** Kimmo
 * **Mario Party:** Markus
 * **Pelithriathlon:** Muto
+
+## Linkit
+
+- [Partyn CSDb-sivu](https://csdb.dk/event/?id=3200)

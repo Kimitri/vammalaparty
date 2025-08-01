@@ -120,3 +120,7 @@ Taas kerran Kauppilan matkailutilalla järjestetty party, jossa hiki virtasi nii
 - RC: Ville
 - Nörttisportti: Kimmo
 
+
+## Linkit
+
+- [Partyn CSDb-sivu](https://csdb.dk/event/?id=3444)

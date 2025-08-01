@@ -126,10 +126,13 @@ Kauppilan matkailutila Ikaalisissa toimi jälleen tapahtumapaikkana, kun vuoden 
 | wobbis | lampake wööld töyr | 9 |
 | NYYRIKKI | Zoom in & crop out| 7 |
 
-### Muiden kompojen voittajat
+## Muiden kompojen voittajat
 
 - RC-kompo: STT
 - Xbox-pelikompo: Marqs
 - Nörttisportti: Marq
 - Puttaus: Kimmo
 
+## Linkit
+
+- [Partyn CSDb-sivu](https://csdb.dk/event/?id=3543)

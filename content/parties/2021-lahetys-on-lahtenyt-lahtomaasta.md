@@ -98,3 +98,8 @@ Erityispalkinto jaettiin Nyyrikille erinomaisesta ideasta wild-kompoentryksi, jo
 * Peli (Xenocider/Dreamcast): Dr. TerrorZ
 * Peli (Pinball Fantasies/Amiga): Roz
 * RC: Claustro
+
+
+## Linkit
+
+- [Partyn CSDb-sivu](https://csdb.dk/event/?id=3087)

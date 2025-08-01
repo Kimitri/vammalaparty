@@ -39,3 +39,8 @@ Kaksikymmentä vuotta ja kahdeskymmenes party! Mahdollisesti myös viimeinen Vam
   7. Irvi
   8. AK-ankka
   9. Just hanging out
+
+
+## Linkit
+
+- CSDb: [2014: Just se viikonloppu ei käy](https://csdb.dk/event/?id=2261)
