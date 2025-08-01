@@ -136,3 +136,4 @@ Hauska party, joka ei kuitenkaan saavuttanut yhtä suurta suosiota kuin edelline
 ## Linkit
 
 * Lieves!Tuore: [Atselous](http://www.kameli.net/lt/atselous.zip) ([Pouet](http://www.pouet.net/prod.php?which=9896) ja [YouTube](http://www.youtube.com/watch?v=vpZBJ4m_KWM))
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3033/)

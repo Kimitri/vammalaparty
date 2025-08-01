@@ -127,3 +127,4 @@ Huikealla skenekompojen tasolla loistanut party. Pidettiin jälleen Voionmaan op
 * [Kekeplasterin ottamia kuvia (zip)](https://1drv.ms/u/s!AqFnbFa4GU2MilbMfr8fzAl3zI2E)
 * [Valokuvia (Nemesis)](http://koti.mbnet.fi/teemuahl/peijaiset_2012.htm)
 * Nemesiksen videot: [1](https://www.youtube.com/watch?v=3m6H7s8yLmM), [2](https://www.youtube.com/watch?v=7Mks33S_rsw), [3](https://www.youtube.com/watch?v=WMRtB7KXTBY), [4](https://www.youtube.com/watch?v=lKsSJfseBoQ), [5](https://www.youtube.com/watch?v=dhDVf9Gkg6g), [6](https://www.youtube.com/watch?v=IrQFy8WKg4A), [7](https://www.youtube.com/watch?v=5hdAortIEuM)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3046/)

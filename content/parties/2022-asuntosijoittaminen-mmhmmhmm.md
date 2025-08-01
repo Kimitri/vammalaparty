@@ -50,3 +50,4 @@ Kompojen taso oli jälleen korkea ja monessa kompossa piste-erot jäivät todell
 ## Linkit
 
 - [Partyn CSDb-sivu](https://csdb.dk/event/?id=3200)
+- [Partyn Demozoo-sivu](https://demozoo.org/parties/4415/)

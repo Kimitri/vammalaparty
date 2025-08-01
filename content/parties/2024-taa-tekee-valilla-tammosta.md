@@ -124,3 +124,4 @@ Taas kerran Kauppilan matkailutilalla järjestetty party, jossa hiki virtasi nii
 ## Linkit
 
 - [Partyn CSDb-sivu](https://csdb.dk/event/?id=3444)
+- [Partyn Demozoo-sivu](https://demozoo.org/parties/5037/)

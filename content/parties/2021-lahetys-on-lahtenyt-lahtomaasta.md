@@ -103,3 +103,4 @@ Erityispalkinto jaettiin Nyyrikille erinomaisesta ideasta wild-kompoentryksi, jo
 ## Linkit
 
 - [Partyn CSDb-sivu](https://csdb.dk/event/?id=3087)
+- [Partyn Demozoo-sivu](https://demozoo.org/parties/4249/)

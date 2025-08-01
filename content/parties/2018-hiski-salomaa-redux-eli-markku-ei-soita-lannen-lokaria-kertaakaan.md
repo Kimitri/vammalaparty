@@ -18,3 +18,4 @@ Kauppilan matkailutilalla jälleen. Oletettavasti Lännen lokari ei tänä vuonn
 * [Muton napsimia kuvia](http://muto.iki.fi/kuvat/peijaiset2018/index.html?fbclid=IwAR2clCSCs-3LbZ4XwmIxnSd4VB3op956WV5UMkEaW4MTlL7lhLiLoKBDn1E)
 * [Empty Orchestra Shinobi: Sports Highlights Of The Day (YouTube)](https://www.youtube.com/watch?v=pLTaGAXol68&feature=youtu.be&fbclid=IwAR243Xs0aaqVNQiiYvreJd2DNI0L3KhGgPQWPCO7HWy2wcRpJoaHLWNiCyQ)
 * [Partyn CSDb-sivu](https://csdb.dk/event/?id=2723)
+* [Partyn Demozoo-sivu](https://demozoo.org/parties/3659/)

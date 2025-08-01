@@ -65,3 +65,4 @@ Leppoisa party Voionmaan opistolla. Ongelmia yritettiin hakea mm. räjäyttämä
 * [Rasvis mä oon (Pepe Willberg)](http://www.youtube.com/watch?v=6WssngbaSoI)
 * [Valokuvia (Nemesis)](http://koti.mbnet.fi/teemuahl/peijaiset_2011.htm)
 * Nemesiksen videot: [1](http://www.youtube.com/watch?v=MYtd_i03EW8), [2](http://www.youtube.com/watch?v=tLJZo_9PXj0)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3045/)

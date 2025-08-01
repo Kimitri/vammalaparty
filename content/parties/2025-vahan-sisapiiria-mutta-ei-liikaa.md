@@ -136,3 +136,4 @@ Kauppilan matkailutila Ikaalisissa toimi jälleen tapahtumapaikkana, kun vuoden 
 ## Linkit
 
 - [Partyn CSDb-sivu](https://csdb.dk/event/?id=3543)
+- [Partyn Demozoo-sivu](https://demozoo.org/parties/5095/)

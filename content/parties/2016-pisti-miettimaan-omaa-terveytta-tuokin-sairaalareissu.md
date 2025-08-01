@@ -72,3 +72,4 @@ Normaalin ohjelman lisäksi nähtiin myös Vammalan oman MSX-demoryhmän, [Lieve
 * [Zamster: Final Illusion](https://soundcloud.com/sami-tyni/zamster-final-illusion-final-edit)
 * [Muton ottamia kuvia](http://muto.iki.fi/kuvat/peijaiset2016/index.html)
 * [Partyn CSDb-sivu](http://csdb.dk/event/?id=2512)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3006/)

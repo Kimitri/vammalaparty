@@ -42,3 +42,4 @@ Osallistujia riitti kompoihin, vaikka kiireet ja sairastumiset estivät ihmisiä
 * APz & Mika73: [Katsaus Peijaisten evästarjontaan](http://www.youtube.com/watch?v=-G9dzsyKruI) (YouTube)
 * Crown Princess Victoria of Sweden: [Kapteeni (YouTube)](http://www.youtube.com/watch?v=Wml2F6DM3LU)
 * Fit: [Anka (YouTube)](http://www.youtube.com/watch?v=jXeH2c4nRgY)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3042/)

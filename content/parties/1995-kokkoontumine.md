@@ -25,3 +25,4 @@ Vammala Partyn pohjanoteeraus, joka pidettiin [Sylvään yläasteella](http://ww
 
 * Fit: [Fizer](http://www.kameli.net/\~marq/fizer.mp4) (h.264-video), [YouTube](http://www.youtube.com/watch?v=lUlwFICGT8A)
 * [Partypaikka Google Mapsissa](https://maps.google.com/maps?hl=en&ll=61.338984,22.925141&spn=0.008398,0.018947&sll=37.0625,-95.677068&sspn=56.06887,77.607422&t=h&z=16&layer=c&cbll=61.338953,22.920675&panoid=hGjxKkaIt9U2PARsFe6bDw&cbp=12,2.93,,1,0.61)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3030/)

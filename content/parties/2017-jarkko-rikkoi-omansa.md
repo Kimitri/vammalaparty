@@ -46,3 +46,4 @@ Toinen Kauppilan matkailutilalla Ikaalisissa järjestetty party. Keli suosi ja l
 
 1. [Muton kuvia](http://muto.iki.fi/kuvat/peijaiset2017/)
 2. [Partyn CSDb-sivu](http://csdb.dk/event/?id=2620)
+3. [Partyn Demozoo-sivu](https://demozoo.org/parties/3335/)

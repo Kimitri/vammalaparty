@@ -61,3 +61,4 @@ Voionmaan opisto toimi jälleen partypaikkana, mutta uutuutena tänä vuonna hub
 * [Mika73:n ottamat kuvat](http://picasaweb.google.fi/Mikam73/Pelikonepeijaiset2009)
 * [Failplane (YouTube)](http://www.youtube.com/watch?v=DlEX-mAXERs)
 * Marq: [Super Existential Bros.](http://www.kameli.net/\~marq/super-existential.mp4) (h.264) ja kaamea [YouTube](http://www.youtube.com/watch?v=Khl21Vea7oI)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3043/)

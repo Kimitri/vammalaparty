@@ -35,3 +35,4 @@ Party, joka osoitti, että porukalla on vielä intoa. Skenekompoihin ei ihan rii
 * Salu: [Demoni](http://www.kameli.net/\~marq/demoni.mp4) (h.264), [YouTube](http://www.youtube.com/watch?v=ihNxVYrw_ic)
 * [Valokuvia (Nemesis)](http://koti.mbnet.fi/teemuahl/peijaiset_2010.htm)
 * Nemesiksen videot: [1](http://www.youtube.com/watch?v=0YYOzyEN3CA), [2](http://www.youtube.com/watch?v=pQ_kTUSLlZQ), [3](http://www.youtube.com/watch?v=acLWiY4e4xk), [4](http://www.youtube.com/watch?v=TubPlxn8qYY), [5](http://www.youtube.com/watch?v=YRTgBX8J8Xo)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3044/)

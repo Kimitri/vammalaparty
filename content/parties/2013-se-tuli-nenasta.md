@@ -41,3 +41,8 @@ Voionmaan opistolla jälleen kerran. Tässä partyssä käytettiin ensimmäistä
   4. On yö
   5. Söpö
   6. Leqe
+
+
+## Linkit
+
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3047/)

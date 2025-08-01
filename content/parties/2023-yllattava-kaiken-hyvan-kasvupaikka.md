@@ -131,3 +131,4 @@ Kauppilan matkailutilalla jälleen järjestetty party, jossa meininki oli eritt�
 ## Linkit
 
 - [Partyn CSDb-sivu](https://csdb.dk/event/?id=3316)
+- [Partyn Demozoo-sivu](https://demozoo.org/parties/4703/)

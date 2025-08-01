@@ -105,3 +105,4 @@ Edellisen partyn epäonnistumisesta takaisin uuteen nousuun. Loistava party, jon
 
 * Marq: [Naapurin mukulat ne vaan melttoo puoliin öihin](http://www.kameli.net/\~marq/naapurin-mukulat.mp4) (h.264), [YouTube](http://www.youtube.com/watch?v=fC8sTHTXkbI)
 * Pete: [No Time](http://www.kameli.net/\~marq/notime.mp4) (h.264), [YouTube](http://www.youtube.com/watch?v=S9STNe2V6HE)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3031/)

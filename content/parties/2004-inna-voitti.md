@@ -38,3 +38,4 @@ Oikein kiva party, jossa tunnelmaa kohottivat mahtava rytmipeli Donkey Konga sek
 * [Valokuvagalleria (Nemesis)](http://koti.mbnet.fi/teemuahl/peijaiset_2004.htm)
 * [Muton kuvaama video](http://www.youtube.com/watch?v=iya8aqdiaNo)
 * Marq: [Soulbrother iBook](http://www.youtube.com/watch?v=d6ykXCHZxbU) (YouTube). Näytetty alun perin kolmella iBookilla.
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3038/)

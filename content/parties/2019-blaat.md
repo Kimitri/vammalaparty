@@ -88,3 +88,4 @@ Pehmislaattauksesta nimensä saanut party. Oli vähintään nimensä veroinen!
 
 * [Kekeplasterin ottamia kuvia](https://www.xn--myyr-ooa.com/kuvia/vparty19/index.html?fbclid=IwAR3xrgHjnkmUuGhJc5DbfkPbXboiproEWIEov64UsIyrnFlqDkZcz5mMjws)
 * [Partyn CSDb-sivu](https://csdb.dk/event/?id=2847)
+* [Partyn Demozoo-sivu](https://demozoo.org/parties/3958/)

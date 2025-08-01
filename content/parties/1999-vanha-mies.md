@@ -179,3 +179,4 @@ Keskellä metsää Hornion koululla järjestetty party, jonka kävijämäärä o
 ## Linkit
 
 * Vesivehmaan Tobira-2 julkaistiin viimeisteltynä nimellä [Anataus 6 ](http://ftp.kameli.net/pub/fit/anataus6/)([Pouet](http://www.pouet.net/prod.php?which=5372) ja [YouTube](http://www.youtube.com/watch?v=_Qm3WS-33u4))
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3034/)

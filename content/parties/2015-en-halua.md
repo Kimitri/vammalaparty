@@ -58,5 +58,6 @@ Sateisena viikonloppuna järjestetty party, jossa skenekompoissa oli runsaasti k
 ## Linkit
 
 * [Partyn sivu CSDb:ssä](http://csdb.dk/event/?id=2388)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/2775/)
 * [Kuvia Mutolta](http://muto.iki.fi/kuvat/peijaiset2015_1/)
 * Roz: [Sumatran kiipeli SoundCloudissa](https://soundcloud.com/rotsten/roz-sumatran-kiipeli)

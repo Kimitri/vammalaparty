@@ -74,3 +74,4 @@ Jälleen Voionmaan opistolla, mutta eri rakennuksessa, [Näsikeskuksessa](https:
 * [Valokuvagalleria 2 (Nemesis)](http://koti.mbnet.fi/teemuahl/peijaiset_2003.htm)
 * Marq: [Russia (YouTube)](http://www.youtube.com/watch?v=sl6si55Wm2Q)
 * Manu: [Wheeeee! Vec](http://www.kameli.net/\~marq/wheeevec.mp4) (h.264) ja [YouTube](http://www.youtube.com/watch?v=1vkGPVqCv7g)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3037/)

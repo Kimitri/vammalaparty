@@ -63,3 +63,4 @@ Vammala Party on, on ja on BÄK!! Partypaikkana Voionmaan opiston juhlasali. Sä
 * [Sunnyn ottamia kuvia](http://ftp.kameli.net/pub/vammalaparty/photos-2007/sunny)
 * Partyraporttia kirjoitettiin 2007 [blogiin](http://vammalaparty.blogspot.fi/)
 * Karaoke Ninja Productions: [Juoksuaika (YouTube)](http://www.youtube.com/watch?v=D0TgOrK6XuE)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3041/)

@@ -75,3 +75,4 @@ Party, joka aloitti kaiken. Ensimmäinen partypaikka oli [Illon koulu](http://ww
 
 * Marq: [Indro (h.264-video)](http://www.kameli.net/~marq/indro.mp4), [YouTube](http://www.youtube.com/watch?v=NiWn8175G8g)
 * [Partypaikka Google Mapsissa](https://maps.google.com/maps?q=illon+koulu&amp;hl=en&amp;ll=61.210353,23.032837&amp;spn=0.03373,0.075788&amp;sll=61.338953,22.920675&amp;sspn=0.008439,0.018947&amp;t=h&amp;hq=illon+koulu&amp;z=14&amp;layer=c&amp;cbll=61.210529,23.032265&amp;panoid=OtX1LhWfEg7-Ec_GyUWHEQ&amp;cbp=12,54.78,,0,2.33)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/543/)

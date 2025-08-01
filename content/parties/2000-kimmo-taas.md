@@ -40,3 +40,4 @@ Sama partypaikka, uudet kujeet. Loistava party, jossa jo pelaaminen ja pelit oli
 ## Linkit
 
 * _Ei oo previkka_ työstettiin Assemblyille julkaisukuntoon nimellä [Anataus 7](http://ftp.kameli.net/pub/fit/anataus7/) ([Pouet](http://www.pouet.net/prod.php?which=992) ja [YouTube](http://www.youtube.com/watch?v=qr6CcmAmAjg))
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3035/)

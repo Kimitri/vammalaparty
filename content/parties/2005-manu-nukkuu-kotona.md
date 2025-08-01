@@ -34,3 +34,4 @@ Poikkeuksellisen aikaisin kesällä järjestetty party, jossa hiki virtasi (hell
 * [Valokuvagalleria (Nemesis)](http://koti.mbnet.fi/teemuahl/peijaiset_2005.htm "teemun kuvagalleria")
 * [Jokunen netistä taltioitu Mika73:n kuva](http://ftp.kameli.net/pub/vammalaparty/photos-2005/mika73/)
 * Fit: [Pulle Nah](http://www.kameli.net/\~marq/pullenah.mp4) (h.264), [YouTube](http://www.youtube.com/watch?v=L8N68mbb78g)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3039/)

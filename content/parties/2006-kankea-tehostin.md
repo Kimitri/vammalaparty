@@ -59,3 +59,4 @@ Nimestään huolimatta oikeinkin letkeä party, jossa grilli pysyi kaiken muun o
 * [Valokuvia](http://ftp.kameli.net/pub/vammalaparty/photos-2006/mika/) (Mika73)
 * [Muutama Sunnyn ottama kuva](http://ftp.kameli.net/pub/vammalaparty/photos-2006/sunny/) – ne mitä tuolta ImageShackin p*skasta vielä ulos saatiin
 * [Muton video graffakomposta](http://www.youtube.com/watch?v=Ix9CH8JtLyc)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3040/)

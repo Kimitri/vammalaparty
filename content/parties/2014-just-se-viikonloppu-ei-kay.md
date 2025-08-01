@@ -44,3 +44,4 @@ Kaksikymmentä vuotta ja kahdeskymmenes party! Mahdollisesti myös viimeinen Vam
 ## Linkit
 
 - CSDb: [2014: Just se viikonloppu ei käy](https://csdb.dk/event/?id=2261)
+- [Partyn sivu Demozoossa](https://demozoo.org/parties/2136/)

@@ -105,3 +105,4 @@ Turbohyttynen BBS:n huippuaikana järjestetty party, jonka suuren kävijämäär
 * Lieves!Tuore: [Aatnos](http://www.kameli.net/lt/aatnos.zip) ([Pouet](http://www.pouet.net/prod.php?which=9898) ja [YouTube](http://www.youtube.com/watch?v=dJOtBwsxst8))
 * Yzi: [Nyt on vitsit vähiksissä](http://www.kameli.net/\~marq/novv.mp4) (h.264), [YouTube](http://www.youtube.com/watch?v=cICOi63mB1M)
 * Five Coders: [Jytke (final)](ftp://ftp.scene.org/pub/demos/groups/five_coders/jytke_f.zip), [YouTube](http://www.youtube.com/watch?v=7qB9Qi1JhpU)
+* [Partyn sivu Demozoossa](https://demozoo.org/parties/3032/)
