@@ -102,3 +102,4 @@ Kauppilan matkailutilalla ja kyberavaruudessa järjestetty huipputapahtuma, joss
 
 - [Partyn CSDb-sivu](https://csdb.dk/event/?id=2975)
 - [Partyn Demozoo-sivu](https://demozoo.org/parties/4090/)
+- [Marqn partyraportti](https://www.kameli.net/marq/?p=5981)

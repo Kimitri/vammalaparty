@@ -104,3 +104,5 @@ Erityispalkinto jaettiin Nyyrikille erinomaisesta ideasta wild-kompoentryksi, jo
 
 - [Partyn CSDb-sivu](https://csdb.dk/event/?id=3087)
 - [Partyn Demozoo-sivu](https://demozoo.org/parties/4249/)
+- [Dr. TerrorZin partyraportti](https://oldmachinery.blogspot.com/2021/07/vammala-party-2021.html)
+- [Marqn partyraportti](https://www.kameli.net/marq/?p=6524)

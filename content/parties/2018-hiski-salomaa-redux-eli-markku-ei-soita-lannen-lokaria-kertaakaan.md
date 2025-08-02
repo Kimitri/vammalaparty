@@ -19,3 +19,5 @@ Kauppilan matkailutilalla jälleen. Oletettavasti Lännen lokari ei tänä vuonn
 * [Empty Orchestra Shinobi: Sports Highlights Of The Day (YouTube)](https://www.youtube.com/watch?v=pLTaGAXol68&feature=youtu.be&fbclid=IwAR243Xs0aaqVNQiiYvreJd2DNI0L3KhGgPQWPCO7HWy2wcRpJoaHLWNiCyQ)
 * [Partyn CSDb-sivu](https://csdb.dk/event/?id=2723)
 * [Partyn Demozoo-sivu](https://demozoo.org/parties/3659/)
+* [Dr. TerrorZin grafiikkaa partyltä](https://oldmachinery.blogspot.com/2018/07/more-8-bit-pictures.html)
+* [Marqn kevyt partyraportti](https://www.kameli.net/marq/?p=5333)

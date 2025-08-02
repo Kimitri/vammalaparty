@@ -23,3 +23,4 @@ weight = 3
 ## Muuta aiheeseen liittyvää
 
 * [Nemesiksen kuva- ja videogalleria](http://koti.mbnet.fi/teemuahl/)
+* [Marqn Vammala Party -retrospektiivi](https://www.kameli.net/marq/?p=3333)

@@ -125,3 +125,5 @@ Taas kerran Kauppilan matkailutilalla järjestetty party, jossa hiki virtasi nii
 
 - [Partyn CSDb-sivu](https://csdb.dk/event/?id=3444)
 - [Partyn Demozoo-sivu](https://demozoo.org/parties/5037/)
+- [Dr. TerrorZin partyraportti](https://oldmachinery.blogspot.com/2024/07/vammala-party-2024.html)
+- [Marqn partyraportti](https://www.kameli.net/marq/?p=7891)

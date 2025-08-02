@@ -73,3 +73,5 @@ Normaalin ohjelman lisäksi nähtiin myös Vammalan oman MSX-demoryhmän, [Lieve
 * [Muton ottamia kuvia](http://muto.iki.fi/kuvat/peijaiset2016/index.html)
 * [Partyn CSDb-sivu](http://csdb.dk/event/?id=2512)
 * [Partyn sivu Demozoossa](https://demozoo.org/parties/3006/)
+* [Dr. TerrorZin grafiikkaa partyltä](https://oldmachinery.blogspot.com/2016/07/new-8-bit-pictures.html)
+* [Marqn tuotoksia partyltä](https://www.kameli.net/marq/?p=4681)

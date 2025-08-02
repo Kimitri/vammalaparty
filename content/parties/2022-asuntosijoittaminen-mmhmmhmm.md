@@ -51,3 +51,5 @@ Kompojen taso oli jälleen korkea ja monessa kompossa piste-erot jäivät todell
 
 - [Partyn CSDb-sivu](https://csdb.dk/event/?id=3200)
 - [Partyn Demozoo-sivu](https://demozoo.org/parties/4415/)
+- [Dr. TerrorZin grafiikkaa partyltä](https://oldmachinery.blogspot.com/2023/01/2022.html)
+- [Marqn tuotoksia partyltä](https://www.kameli.net/marq/?p=6939)

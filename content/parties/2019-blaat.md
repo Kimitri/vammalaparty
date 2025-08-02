@@ -89,3 +89,5 @@ Pehmislaattauksesta nimensä saanut party. Oli vähintään nimensä veroinen!
 * [Kekeplasterin ottamia kuvia](https://www.xn--myyr-ooa.com/kuvia/vparty19/index.html?fbclid=IwAR3xrgHjnkmUuGhJc5DbfkPbXboiproEWIEov64UsIyrnFlqDkZcz5mMjws)
 * [Partyn CSDb-sivu](https://csdb.dk/event/?id=2847)
 * [Partyn Demozoo-sivu](https://demozoo.org/parties/3958/)
+* [Dr. TerrorZin partyraportti](https://oldmachinery.blogspot.com/2019/07/some-c64-stuff-at-vammala-party-2019.html)
+* [Marqn tuotoksia partyltä](https://www.kameli.net/marq/?p=5665)
