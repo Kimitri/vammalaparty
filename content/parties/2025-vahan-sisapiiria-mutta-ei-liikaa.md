@@ -139,3 +139,4 @@ Kauppilan matkailutila Ikaalisissa toimi jälleen tapahtumapaikkana, kun vuoden 
 - [Partyn Demozoo-sivu](https://demozoo.org/parties/5095/)
 - [Marqn partyraportti](https://www.kameli.net/marq/?p=8517)
 - [Dr. TerrorZin partyraportti](https://oldmachinery.blogspot.com/2025/07/vammala-party-2025.html)
+- [Maininta psenoughin Demoscene Report -videolla](https://www.youtube.com/watch?v=WY1dgBc_TY4)
