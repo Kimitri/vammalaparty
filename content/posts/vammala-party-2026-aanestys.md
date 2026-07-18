@@ -8,7 +8,7 @@ title = "Vammala Party 2026 -äänestys"
 +++
 Partyn osallistujat voivat äänestää kompoissa osoitteessa [https://vparty-voting.duiker.fi/](https://vparty-voting.duiker.fi/)
 
-Äänestys toimii samalla systeemillä kuin viime vuonna. Joudut rekisteröitymään käyttäjäksi ennen äänestämistä, vaikka olisit jo viime vuonna rekisteröitynyt. Käyttäjätiedot poistetaan aina partyn jälkeen.
+Äänestys toimii samalla systeemillä kuin viime vuonna. Joudut rekisteröitymään käyttäjäksi ennen äänestämistä, vaikka olisit jo viime vuonna rekisteröitynyt. Käyttäjätiedot poistetaan aina partyn jälkeen. Rekisteröitymisen yhteydessä vaaditaan pääsykoodi ("passcode"), joka tänä vuonna on "vparty2026".
 
 Äänestyksessä valitaan jokaisesta komposta kolme parasta ja ne laitetaan järjestykseen parhaasta aloittaen entryä klikkaamalla. Voit poistaa antamiasi ääniä klikkaamalla annettua ääntä. Äänet jakautuvat valitsemillesi entryille seuraavasti: 
 
