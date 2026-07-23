@@ -152,8 +152,13 @@ Party järjestettiin Ikaalisissa, Kauppilan matkailutilalla 16. - 19. heinäkuut
 ## Muiden kompojen voittajat
 
 - RC-kompo: Mikko
+- Nörttisportti: Stt
+- Golf: Terwiz
+- Peli: Gusti
+- 50-vuotiskompo: Stt
 
 ## Linkit
 
 - [Partyn CSDb-sivu](https://csdb.dk/event/?id=3653)
 - [Partyn Demozoo-sivu](https://demozoo.org/parties/5646/)
+- [Dr. TerrorZin partyraportti](https://oldmachinery.blogspot.com/2026/07/vammala-party-2026.html)
